@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-customer-accounts-dart-desktop",
+  "capabilityKey": "planned:ecommerce:customer-accounts",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_customer_accounts_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/customer-accounts.md",
+  "presentationPlan": "projects/ecommerce/features/customer-accounts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
